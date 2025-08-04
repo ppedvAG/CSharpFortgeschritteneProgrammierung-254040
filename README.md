@@ -10,11 +10,13 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 - [ ] C# 9.0
 
 
-## M002 | C# 10 bis C# 12
+## M002 | C# 10 bis C# 14
 
 - [ ] C# 10
 - [ ] C# 11
 - [ ] C# 12
+- [ ] C# 13
+- [ ] C# 14
 
 
 ## M003 | Delegates und Events
