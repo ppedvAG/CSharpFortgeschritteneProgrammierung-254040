@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{634C5890-9B06-4EAB-9583-A49A2739BCDC}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{75A4082C-5184-4729-9C3D-FEDBDBBF5380}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{BED26AD5-4C77-4FF2-B1DE-FCDF89C95790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{E2187EF8-F4E5-47A5-B79E-13EFEB9A9D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{440AEA33-2294-4477-B2C2-E4FEBBA53D80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BED26AD5-4C77-4FF2-B1DE-FCDF89C95790}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED26AD5-4C77-4FF2-B1DE-FCDF89C95790}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED26AD5-4C77-4FF2-B1DE-FCDF89C95790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2187EF8-F4E5-47A5-B79E-13EFEB9A9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2187EF8-F4E5-47A5-B79E-13EFEB9A9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2187EF8-F4E5-47A5-B79E-13EFEB9A9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2187EF8-F4E5-47A5-B79E-13EFEB9A9D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440AEA33-2294-4477-B2C2-E4FEBBA53D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440AEA33-2294-4477-B2C2-E4FEBBA53D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440AEA33-2294-4477-B2C2-E4FEBBA53D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440AEA33-2294-4477-B2C2-E4FEBBA53D80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
